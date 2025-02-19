@@ -15,12 +15,12 @@ jobs:
       - name: Fetch a Random Repo
         run: |
           REPOS=($(curl -s "https://api.github.com/users/sohaib1khan/repos" | jq -r '.[].name'))
-          RANDOM_REPO=${REPOS[$RANDOM % ${#REPOS[@]}]}
+          RANDOM_REPO=$(shuf -n 1 -e "${REPOS[@]}")
           echo "SELECTED_REPO=$RANDOM_REPO" >> $GITHUB_ENV
 
       - name: Update README
         run: |
-          sed -i "s|https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=.*|https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=$SELECTED_REPO&theme=tokyonight|" README.md
+          sed -i "s|repo=REPLACEME|repo=$SELECTED_REPO|" README.md
 
       - name: Commit and Push Changes
         run: |
