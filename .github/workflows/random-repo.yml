@@ -12,9 +12,12 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      - name: Install jq
+        run: sudo apt-get install jq -y
+
       - name: Fetch a Random Repo
         run: |
-          REPOS=($(curl -s "https://api.github.com/users/repos" | jq -r '.[].name'))
+          REPOS=($(curl -s "https://api.github.com/users/sohaib1khan/repos/" | jq -r '.[].name'))
           RANDOM_REPO=$(shuf -n 1 -e "${REPOS[@]}")
           echo "SELECTED_REPO=$RANDOM_REPO" >> $GITHUB_ENV
 
