@@ -1,6 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://github.com/sohaib1khan">
+    <strong><span style="font-size: 2em;">Sohaib Khan</span></strong>
+  </a>
+</p>
 
-![Banner](https://github.com/sohaib1khan/Python_Portfolio/blob/main/static/images/profile.jpg)
+<p align="center">
+  <a href="https://github.com/sohaib1khan">
+    <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20·%20Linux%20System%20Administrator%20·%20Technical%20Support%20Engineer;Kubernetes%20%7C%20Docker%20%7C%20Terraform%20%7C%20Ansible;Home%20Lab%20Explorer%20%7C%20Cloud%20Automation;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=ff9900&vCenter=true&pause=1000&size=22" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohaib-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
+
+
 <!--
 **sohaib1khan/sohaib1khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
