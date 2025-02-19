@@ -4,6 +4,12 @@
   </a>
 </p>
 
+<!-- Remove the name excerpt and add the following below the current intro -->
+<p align="center">
+  <img src="https://img.shields.io/badge/DevOps-Engineer-blue" alt="DevOps Badge" />
+  <img src="https://img.shields.io/badge/Linux-Administrator-yellow" alt="Linux Badge" />
+</p>
+
 <p align="center">
   <a href="https://github.com/sohaib1khan">
     <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20Engineer%20·%20Linux%20System%20Administrator%20·%20Technical%20Support%20Engineer;Kubernetes%20%7C%20Docker%20%7C%20Terraform%20%7C%20Ansible;Home%20Lab%20Explorer%20%7C%20Cloud%20Automation;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=ff9900&vCenter=true&pause=1000&size=22" />
@@ -17,8 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1khan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
-
 
 
 <!--
