@@ -12,9 +12,10 @@
 
 <p align="center">
   <a href="https://github.com/sohaib1khan">
-    <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20·%20Linux%20System%20Administrator%20·%20Technical%20Support;Kubernetes%20%7C%20Docker%20%7C%20Terraform%20%7C%20Ansible;Home%20Lab%20Explorer%20%7C%20Cloud%20Automation;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=ff9900&vCenter=true&pause=1000&size=22" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=DevOps%20·%20Linux%20System%20Administrator%20·%20Technical%20Support;Kubernetes%20%7C%20Docker%20%7C%20Terraform%20%7C%20Ansible;Home%20Lab%20Explorer%20%7C%20Cloud%20Automation;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=60&color=ff9900&vCenter=true&pause=1000&size=22" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sohaib1khan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
