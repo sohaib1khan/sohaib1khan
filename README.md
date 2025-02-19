@@ -23,9 +23,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1khan&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=REPLACEME&theme=tokyonight" />
-</p>
-
-
