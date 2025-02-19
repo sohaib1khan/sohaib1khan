@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![Banner](https://github.com/sohaib1khan/Python_Portfolio/blob/main/static/images/profile.jpg)
 <!--
 **sohaib1khan/sohaib1khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
