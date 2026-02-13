@@ -74,12 +74,12 @@
 ## 📈 **GitHub Analytics**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohaib1khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sohaib1khan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sohaib1khan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1khan&layout=compact&theme=tokyonight&hide_border=true&exclude_repo=repo1,repo2" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaib1khan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -121,10 +121,10 @@ class DevOpsJourney:
 
 <div align="center">
   <a href="https://github.com/sohaib1khan/GitOps_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=GitOps_Projects&theme=tokyonight&hide_border=true" alt="GitOps Projects" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=GitOps_Projects&theme=tokyonight&hide_border=true&show_owner=true" alt="GitOps Projects" />
   </a>
   <a href="https://github.com/sohaib1khan/home_server_setup">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=home_server_setup&theme=tokyonight&hide_border=true" alt="Home Server Setup" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sohaib1khan&repo=home_server_setup&theme=tokyonight&hide_border=true&show_owner=true" alt="Home Server Setup" />
   </a>
 </div>
 
