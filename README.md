@@ -68,7 +68,7 @@ Passionate about automation, infrastructure as code, and continuous learning in 
 
 ## 🌐 Portfolio
 
-Check out my professional portfolio: **[sohaib0khan.com](https://sohaib0khan.com)**
+Check out my  portfolio: **[sohaib0khan.com](https://sohaib0khan.com)**
 
 ---
 
